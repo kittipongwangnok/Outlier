@@ -1,0 +1,13 @@
+cp dpleo_20150318_run031kg5.mod dpleo_20161225_run024kg5.mod
+cp dpleo_20150318_run031kg5.mod dpleo_20161225_run025kg5.mod
+cp dpleo_20150318_run031kg5.mod dpleo_20170217_run033kg5.mod
+cp dpleo_20150318_run031kg5.mod dpleo_20170217_run047kg5.mod
+cp dpleo_20150318_run031kg5.mod dpleo_20170316_run036kg5.mod
+cp dpleo_20150318_run031kg5.mod dpleo_20180121_run076kg5.mod
+cp dpleo_20150318_run031kg5.mod dpleo_20190227_run039kg5.mod
+cp dpleo_20150318_run031kg5.mod dpleo_20180322_run021kg5.mod
+cp dpleo_20150318_run031kg5.mod dpleo_20190406_run021kg5.mod
+cp dpleo_20150318_run031kg5.mod dpleo_20200124_run017kg5.mod
+cp dpleo_20150318_run031kg5.mod dpleo_20200131_run009kg5.mod
+cp dpleo_20150318_run031kg5.mod dpleo_20200229_run030kg5.mod
+cp dpleo_20150318_run031kg5.mod dpleo_20200322_run026kg5.mod
